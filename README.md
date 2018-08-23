@@ -26,4 +26,7 @@ Praktikum 1
 ![alt text](https://github.com/High-Quality26/Modul2/blob/master/src/Modul2/Tugas%20Praktikum.JPG)
 <br>
 <br>
+Praktikum 2
+![alt text](https://github.com/High-Quality26/Modul2/blob/master/src/Modul2/Praktikum2.JPG)
+<br>
 
